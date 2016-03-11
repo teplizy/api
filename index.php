@@ -1,8 +1,8 @@
 <?php
 if($_POST)
 {
-	$to_Email   	= "limyevent@ya.ru"; //Replace with recipient email address
-//	$to_Email   	= "kia-irk@ya.ru"; //Replace with recipient email address
+//	$to_Email   	= "limyevent@ya.ru"; //Replace with recipient email address
+	$to_Email   	= "kia-irk@ya.ru"; //Replace with recipient email address
 	$subject        = 'Кто-то написал сообщение с сайта...'; //Subject line for emails
 	
 	
